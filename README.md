@@ -3,7 +3,8 @@ Assistant Manager | Consultant | Project Management | Entrepreneur | Opencart, P
 
 - 🔭 I’m currently working on Bangladesh Online as Assistant Manager for almost 10 years
 - 🌱 I’m currently learning Laravel, Python
-- 
+- 💬 Ask me about anything related to Programming
+- 📫 How to reach me: skype- tanvir0906
 
 <!--
 **tanvir0906/tanvir0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-## Hi there This is Murad Hasan👋
+## Murad Hasan 👋
 Assistant Manager | Consultant | Project Management | Entrepreneur | Opencart, Prestashop | Laravel, Codeigniter | Git | DevOps | PHP - MySQL
 
 - 🔭 I’m currently working on Bangladesh Online as Assistant Manager for almost 10 years

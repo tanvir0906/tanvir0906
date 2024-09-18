@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there This is Murad Hasan👋
+Assistant Manager | Consultant | Project Management | Entrepreneur | Opencart, Prestashop | Laravel, Codeigniter | Git | DevOps | PHP - MySQL
+
+- 🔭 I’m currently working on Bangladesh Online as Assistant Manager for almost 10 years
+- 🌱 I’m currently learning Laravel, Python
+- 
 
 <!--
 **tanvir0906/tanvir0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

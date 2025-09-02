@@ -1,5 +1,5 @@
 ## Murad Hasan 👋
-Assistant Manager | Consultant | Project Management | Entrepreneur | Opencart, Prestashop | Laravel, Codeigniter | Git | DevOps | PHP - MySQL
+Deputy Manager | Consultant | Project Management | Entrepreneur | Opencart, Prestashop | Laravel, Codeigniter | Git | DevOps | PHP - MySQL
 
 - 🔭 I’m currently working on Bangladesh Online as Assistant Manager for almost 10 years
 - 🌱 I’m currently learning Laravel, Python
